@@ -1,0 +1,6 @@
+﻿  SortString.c
+d:\програмки\lab28\lab28\sortstring.c(46): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\програмки\lab28\lab28\sortstring.c(46): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\програмки\lab28\lab28\sortstring.c(63): warning C4013: isalpha: нет определения; предполагается "extern" с возвратом типа "int"
+d:\програмки\lab28\lab28\sortstring.c(156): warning C4013: qsort: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab28.vcxproj -> D:\програмки\Lab28\Debug\Lab28.exe
